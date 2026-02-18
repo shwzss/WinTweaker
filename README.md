@@ -1,3 +1,7 @@
+# ⚠️ WARNING ⚠️: DOWNLOAD FROM RELEASES AND NOT FROM ZIP, AS THE MAIN FILE IN THE MAIN BRANCH IS OUTDATED.
+
+---
+
 # WinTweaker – Take Control of Your Windows Experience
 
 **WinTweaker** is a powerful yet easy-to-use tweaking tool designed to give you full control over your Windows system. Instead of being locked into default settings, WinTweaker allows you to customize, optimize, and fine-tune your system exactly the way you want.
